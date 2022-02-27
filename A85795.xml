@@ -1,0 +1,176 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To the children of Friends, and other young people belonging to Falmouth, and elsewhere</title>
+            <author>Gwin, Thomas, 1656?-1720.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1690</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A85795</idno>
+            <idno type="STC">Wing G2282</idno>
+            <idno type="STC">ESTC R42594</idno>
+            <idno type="EEBO-CITATION">36282411</idno>
+            <idno type="OCLC">ocm 36282411</idno>
+            <idno type="VID">150080</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A85795)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 150080)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2229:2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>To the children of Friends, and other young people belonging to Falmouth, and elsewhere</title>
+                  <author>Gwin, Thomas, 1656?-1720.</author>
+               </titleStmt>
+               <extent>13 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1690]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Attributed to Thomas Gwin by Wing (2nd ed.).</note>
+                  <note>Signed and dated on p. 13: Falmouth the 14th of the 9th Month, 1690. T.G.</note>
+                  <note>Reproduction of original in the Friends' Library (London, England)</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Society of Friends --  Pastoral letters and charges.</term>
+               <term>Conduct of life --  Quaker authors.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-07</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2009-07</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb n="1" facs="tcp:150080:1" rendition="simple:additions"/>
+            <head>TO THE Children of Friends, and other Young People belonging to <hi>Falmouth,</hi> and elſewhere.</head>
+            <opener>
+               <salute>Dear Friends, &amp; well-beloved Children,</salute>
+            </opener>
+            <p>IN that love that earneſtly longs for your Proſperity, and growth in the Truth and Power of Godlineſs, I do tenderly Salute you; deſiring that you may grow up to be Trees of Righteouſneſs, the planting of the Lords Right Hand, that he may be glorified: I have often beheld you with an Eye of Love and Pity, and of late it hath been with meat divers ſeaſons to Viſit you with a few Lines, if poſſible to ſtir up that Mind or Spi<g ref="char:EOLhyphen"/>rit in you which is pure, by way of remembrance, that you may give diligent heed thereto in all your Con<g ref="char:EOLhyphen"/>verſations,
+<pb n="2" facs="tcp:150080:2"/>
+and ſo may be preſerved in the Truth of God over all the wiles of your Souls Adverſary.</p>
+            <p>And let me tell you by the way, Truth is the moſt excellent thing in the whole Earth, and there is no<g ref="char:EOLhyphen"/>thing to be deſired in compariſon with it, you may read of many of its Excellencies in the Holy Scriptures; But as you become obedient hereunto you will experience it ſo in your ſelves, and will know the Lord to be your Leader, who will lead you out of all Iniquity to the perfecting Ho<g ref="char:EOLhyphen"/>lineſs in his fear; To which end it is your duty and place not to neglect the Gift of God which is in you, that which in the ſecret of your Hearts ſhews you that you ought not to Lie, to Steal, to be Proud, Vain, or Wan<g ref="char:EOLhyphen"/>ton; be diligent in hearkning there<g ref="char:EOLhyphen"/>unto, and be very careful that you encline not to follow the Enemy in theſe or any other of his Temptati<g ref="char:EOLhyphen"/>ons; But have an Eye to the Lord, and let your deſires be to him, who
+<pb n="3" facs="tcp:150080:2"/>
+adminiſters ſtrength to the Weak, that he may endue you with ſpiritual Bleſſings in the knowledge of him<g ref="char:EOLhyphen"/>ſelf, and that you may grow up to a living Zeal for the Honour of his Truth. And let me further tell you, though your priviledges be very great, and your Advantages much beyond others, in that you have be<g ref="char:EOLhyphen"/>lieving Parents, (at leaſt ſome of you) who have been unto you good Pat<g ref="char:EOLhyphen"/>terns of Holineſs, and not only ſo, <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> their Souls have been often pour<g ref="char:EOLhyphen"/>ed out unto the Lord on your behalfs, that he may bleſs you with his Heavean<g ref="char:EOLhyphen"/>ly Day-Spring from on high, and bring you unto his divine Truth; yet after all this, and all the pains and care they uſed in your Education, if you come not to know ſome Portion of the ſame Life, and quickning Power in your own Hearts, that wrought in the minds of thoſe your tender Parents, or Friends, you will be as dead and lifeleſs, and as certainly unacepta<g ref="char:EOLhyphen"/>ble to the Lord as any other Children
+<pb n="4" facs="tcp:150080:3"/>
+whatſoever. And therefore the A<g ref="char:EOLhyphen"/>poſtle's advice to <hi>Timothy</hi> is very ex<g ref="char:EOLhyphen"/>pedient for you, 2 Tim. 1. 6, 7. <hi>Wherefore I put thee in remebrance, that thou ſtir up the Gift of God that is in thee, and the unfeigned Faith which dwelt firſt thy Parents; for God hath not given us the Sprit of fear</hi> (the Spi<g ref="char:EOLhyphen"/>rit of careleſneſs and indifferency) <hi>but of Power, of Love, and a Sound Mind.</hi> Now examine your ſelves, whether you have this Spirit of Pow<g ref="char:EOLhyphen"/>er Whether you have dominion o<g ref="char:EOLhyphen"/>ver your Souls enemy. Or whether your minds yet go after the Earth, or the vain Cuſtoms or Faſhions of it. If ſo, you have not this Spirit of Power, nor of the Love of God, and ſo are far from a Sound Mind.</p>
+            <p>Therefore, <hi>Dear Children,</hi> be very watchful, walk circumſpectly, not as Fools, but as Wiſe; put away Ly<g ref="char:EOLhyphen"/>ing, ſpeak every one the Truth to each other; <hi>They are my People, ſaid the Lord, Children that will not Lie.</hi> So he was their Father [<hi>Mark</hi>] God is
+<pb n="5" facs="tcp:150080:3"/>
+a Father to thoſe who will not Lie; here is a glorious Priviledge that you are called to, even to be Children of God.</p>
+            <p>Be careful likewiſe, that none of you be Buſy-bodies, medling with the affairs of others, or ready to carry Tales and ſtories, for this will cer<g ref="char:EOLhyphen"/>tainly corrupt your Minds from the Simplicity of the Truth, and it will make you idle and impertinent, that the Lord will have no regard unto you, nor his People any reſpect for you.</p>
+            <p>And let all take care that they ſtu<g ref="char:EOLhyphen"/>dy not to out-do one another in Cloaths and Dreſſings, as who ſhall be fineſt: But rather, <hi>Dear Children,</hi> and <hi>young People,</hi> if there be an emu<g ref="char:EOLhyphen"/>lation betwixt you, let it be who ſhall be humbleſt, and who ſhall be loweſt; For its the lowly God exalts, and the Meek he guides in Judgment, and with the humble he will abide: And this I have to ſay, where that <hi>over-earneſt deſire</hi> is to appear as fine
+<pb n="6" facs="tcp:150080:4"/>
+as others, (tho with ſuch things as may ſeem plain) yet Pride creeps in under that Spirit, and your Profeſſion will no more keep you out of the reach of the Enemy's Power, than it does thoſe who wear Laces, Fringes and Ribands, but you will as really fall under, the juſt Judgment of the Righteous God as any other proud People whatſoever.</p>
+            <p>I have this likewiſe to tell you, that it is your duty to be very careful of what acquaintance, and ſociety you uſe your ſelves to; that you may keep out of the Worlds Wayes, and Fel<g ref="char:EOLhyphen"/>lowſhips, and that you who are young Boyes and Girles, may not run with them in their Plays, and Sports, but may be grave and ſober as becomes thoſe profeſſing Godlineſs; for be aſſu<g ref="char:EOLhyphen"/>red ſuch as your Companions be, ſuch are you like to be in a ſhort time; and therefore it behoves you to ſeek after the ſociety of ſober Friends, and ſuch as love Truth, that your love thereto may grow and increaſe, and the Lord may kindle a Zeal in your Spirits, and
+<pb n="7" facs="tcp:150080:4"/>
+make you ſerviceable to him in the days of your Youth.</p>
+            <p>And, <hi>Dear Children,</hi> be careful likewiſe to frequent Meetings, and to ſit ſoberly and in good order when you are there, and think not that it is enough to appear there with your Bo<g ref="char:EOLhyphen"/>dies while your Minds go aſtray from the Lord, but know the Lord abhors that Sacrifice, and has regard to the diligent and careful, whoſe Minds are exerciſed in his Law, and who are under an holy aw and fear, leſt they ſhould come ſhort of that Inheritance to the which God hath called them; I believe you are not without your ene<g ref="char:EOLhyphen"/>my, who when he hath a little clouded the mind, endeavours to be wilder it by drawing it into many thoughts, wan<g ref="char:EOLhyphen"/>dring up and down in a multitude of unneceſſary Cogitations, or elſe on the other hand to ſettle down in a dry drowſy, ſleepy ſtate, and condition; which is a great ſhame to behold, and a diſhonour to the Name of the Lord; and muſt therefore be watched againſt diligently; and let your earnſet and
+<pb n="8" facs="tcp:150080:5"/>
+hearty Petition be to the Lord, that he may perſerve you out of thoſe evils, for where theſe things become habi<g ref="char:EOLhyphen"/>tual, or cuſtomary to a People, Such in time loſe the ſence of God's Re<g ref="char:EOLhyphen"/>freſhments &amp; the renewings of Life, and Power which he communicates tohis watchful People.</p>
+            <p>Therefore, <hi>Dear Friends,</hi> be con<g ref="char:EOLhyphen"/>cerned, God waits to be Gracious to you, my Soul is a witneſs for him, he hath not been wanting to us to bleſs our Aſſemblies with his Preſence and the bedewings of his precious Life; And why ſhould any of us ei<g ref="char:EOLhyphen"/>ther Young or Old, be careleſs of ſo great a Bleſſing, and let our minds reſt in earthly fooliſh things? Oh ! <hi>Dear Friends,</hi> let us be a concerned <hi>people</hi> be<g ref="char:EOLhyphen"/>fore the Lord, that his Truth may ſhine in our Converſations, and in all our Meetings, This is what the Lord looks for, that we may be a living People, lively towards him, and if there be any deadneſs remains, let it be towards that which is evil, that the Enemy of
+<pb n="9" facs="tcp:150080:5"/>
+our Souls, may never have his pur<g ref="char:EOLhyphen"/>poſe on any of us, but that we may wait more and more for Gods Salvati<g ref="char:EOLhyphen"/>on; who will certainly be near unto us as in ſincerity we draw near unto him.</p>
+            <p>And <hi>Dear Children,</hi> and <hi>Young Peo<g ref="char:EOLhyphen"/>ple,</hi> I do further adviſe you, that you keep in the ſimplicity of the Truth, out of all craft, and cunning, and out of all ſhews and appearances beyond what you really are. But let it be your deſire and endeavour to appear ſimply unto all, as you are in the view of the Lord, and its no matter how fooliſh men may eſteem you: And that your earneſt breathings be, that the Lord may ſearch and try you, and whatever evil is in you, that he may do it away; and as your Hearts become thus exerciſed God will meet with you, he will ſhew you the joy of his Salvation, and make you beautiful in his Houſe of Prayer, and who knows but he may kindle ſuch loving Zeal in your Spirits as to concern you
+<pb n="10" facs="tcp:150080:6"/>
+for the good of others, and furniſh you with an Heavenly effectual Gift, for the reproving and admoniſhing thoſe who go out of the way, and for comforting the weak and feeble, as he pleaſeth to move in you; And therefore it behoves you who are young, to be ſober minded, and to wait on the Lord that you may daily know his Inſtructions, and may fol<g ref="char:EOLhyphen"/>low Him who is a Teacher <hi>near,</hi> when we have no outward Inſtructer. To the Word of whoſe divine Grace that is able to keep you from falling, and to preſent you faultleſs before the Pre<g ref="char:EOLhyphen"/>ſence of his Glory, with exceeding joy, I heartily Recommend you, and Remain,</p>
+            <closer>
+               <signed>Your Dearly Loving Friend and Bro<g ref="char:EOLhyphen"/>ther in the Truth,
+Thomas Gwin.</signed>
+            </closer>
+         </div>
+         <div type="postscript">
+            <pb n="11" facs="tcp:150080:6"/>
+            <head>Poſtcript.</head>
+            <p>THere is yet ſomewhat more on my mind to communicate to you, in reſpect of your behaviour towards your Parents, or any other Friends, who may be concerned to caution you for your good, that you may receive it in meek<g ref="char:EOLhyphen"/>neſs and good-will, and take heed of an angry obſtinate Spirit that is heady, and high minded, and kicks againſt reproof; God and good men hate that Spirit, and if you go on therein it will ſurely deſtroy you, and the way of Peace you will never know. Therefore be Jealous over your own Hearts, and let Judgment have its free courſe, for That in you which hates reproof, and turns Judgment backward, is the greateſt of all your Enemies.</p>
+            <p>And you who are more grown, take care of letting out your Affections haſtily after any man or Woman in order to Marriage, but ſoberly wait the Lords time, ſeek firſt Gods Kingdom and the Righteouſneſs thereof, and know thy maker to be thy Husband, who will ſufficiently care for thee, and whoſe love is better than the Love of the whole Earth. Be Cautious there<g ref="char:EOLhyphen"/>fore
+<pb n="12" facs="tcp:150080:7"/>
+and retired, for thoſe who let out their Minds, not having a regard to the Lord and the guidance of Truth in theſe things, They fall (as the Apoſtle ſaid in another Caſe) into a ſnare, and many fooliſh and hurtful Luſts, which drown men in Perdition.</p>
+            <p>After this ſort I have been often concerned to write to you, <hi>Dear Children</hi> and <hi>Young People,</hi> and I heartily wiſh it may be effectual to the Spiritual benefit of any one particular of you, which would be a ſufficient recompence to your well wiſhing Friend.</p>
+            <p>And you who are Parents of Children, the Concern that ought to be on you is great, not only to inſtruct and admoniſh your tender Ones, but that you may be patterns and examples of Holineſs unto them, for Childrens Eyes are uſually more upon the manners and behaviour of their Parents than upon their Precepts and Inſtructions; doſt thou think, Oh vain Man or Woman! that when thou telleſt thyChild he ought not to Lie, and thou lieſt; or that he ought not to be Proud, whilſt thou art Proud; or that he muſt not be Obſtinate, Vain or Angry; whilſt thou art ſo; doſt thou think thy inſtructi<g ref="char:EOLhyphen"/>ons will prevail more than thy Example? truly its not very likely they ſhould; what a care then ought to be on us in reſpect of our Iſſue, that they may ſee our good examples, and
+<pb n="13" facs="tcp:150080:7"/>
+follow us, and Glorifie God on our behalfs! And ſo we ſhall be a bleſſing unto them, and they may be bleſſings unto us, and the Lord as he hath begun will continue to bleſs us with his di<g ref="char:EOLhyphen"/>vine Preſence, and the early and latter Rain of his Favour, which cauſes a freſhneſs, and a ſpringing up of the Pure Seed, to the Praiſe Honour and Glory of his divine Name, who is over all eternally worthy, ſaith my Soul and let the Dominion, and Authority be to him forever and for evermore.</p>
+            <closer>
+               <dateline>
+                  <hi>Falmouth</hi> 
+                  <date>14th of the 9th Month, 1690.</date>
+               </dateline>
+               <signed>T. G.</signed>
+            </closer>
+            <trailer>THE END.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
